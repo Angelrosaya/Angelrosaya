@@ -1,4 +1,4 @@
-<h1>Hi, I'm Angel, an <a href="https://www.linkedin.com/in/angel-rosa">IT Professional</a>☺</h1>
+<h1>Hi, I'm Angel, an <a href="https://www.linkedin.com/in/angel-rosa-4b133716b/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
